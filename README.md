@@ -43,7 +43,8 @@ ifconfig
 The target machine was tested using the ping command.
 
 ping <target-ip>
-![ping_test](https://github.com/user-attachments/assets/b0c7eda7-075c-466b-8dea-ec1fe66851c7)
+![ping_test](screenshots/ping_test.jpeg)
+
 
 ### Step 3: Basic Port Scan
 
