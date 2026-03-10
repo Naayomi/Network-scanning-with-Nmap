@@ -72,9 +72,20 @@ sudo nmap -O <target-ip>
 All Nmap scans were saved to a text file to document the findings and provide proof of work. Saving scans is important for reporting and analysis in cybersecurity projects.
 
 nmap -sV <target-ip> -oN scan-results.txt
-![[scan-results.txt](https://github.com/user-attachments/files/25869478/scan-results.txt)
-scan-result]
-(https://github.com/user-attachments/assets/1c014d86-0051-4150-b132-921c9f01fe4b)
+
+![scan-result](https://github.com/user-attachments/assets/a0b694e4-48f5-405b-a082-d56132869d5f)
+
+## What I Learned
+
+- How to perform host discovery and network scanning using Nmap  
+- How to identify open ports and running services  
+- How to detect the operating system of a target  
+- How to save scan results and document findings professionally
+
+![Cybersecurity](https://img.shields.io/badge/Field-Cybersecurity-blue)
+![Tool](https://img.shields.io/badge/Tool-Nmap-green)
+![Environment](https://img.shields.io/badge/Lab-Kali%20Linux-red)
+
 
 
 
